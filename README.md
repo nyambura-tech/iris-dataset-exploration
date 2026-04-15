@@ -35,3 +35,19 @@ The Iris dataset contains 150 samples of iris flowers with 4 features:
 ## How to Run This Project
 - Clone this repository
 - Install required packages:
+  pip install pandas numpy matplotlib seaborn scikit-learn
+- Run the Python script:
+ jupyter notebook iri_ml_project.ipynb
+
+## Visualizations
+### Scatter Plot: Sepal Length vs Sepal Width
+*Shows how Setosa (red) separates clearly from other species*
+
+### Histogram: Distribution of Sepal Length
+*Shows the spread of sepal length across all 150 flowers*
+
+## Author
+Mary
+
+## Date
+April 2026
