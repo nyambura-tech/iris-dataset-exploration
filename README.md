@@ -47,7 +47,7 @@ The Iris dataset contains 150 samples of iris flowers with 4 features:
 *Shows the spread of sepal length across all 150 flowers*
 
 ## Author
-Mary
+Nyambura
 
 ## Date
 April 2026
